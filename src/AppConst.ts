@@ -1,0 +1,5 @@
+// TypeScript file
+
+module game
+{
+}
